@@ -1,4 +1,4 @@
-# AI-based Checkers game made using pygame module
+# AI-based Checkers game with MiniMax Algorithm made using pygame module
 
 Checkers is a strategy board game for two players which involves diagonal moves of uniform game pieces and mandatory captures by jumping over opponent pieces.
 
