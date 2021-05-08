@@ -21,12 +21,17 @@ It uses a very simple evaluation function:<br/>
 
 ## A look into the game
 
-<img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117530987-9a936300-aff9-11eb-914f-4352563636ac.PNG">
-<img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531155-97e53d80-affa-11eb-978a-817e2c8a079d.png">
-<img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531157-99af0100-affa-11eb-86d1-21b944703324.png">
-<img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531160-9c115b00-affa-11eb-8d54-ed48976c02d6.png">
-<img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531161-9f0c4b80-affa-11eb-8807-07b93f17e9cf.png">
-<img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531163-a3386900-affa-11eb-9dad-da7466dc32ce.png">
+<p align="center">
+  <img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117530987-9a936300-aff9-11eb-914f-4352563636ac.PNG">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531155-97e53d80-affa-11eb-978a-817e2c8a079d.png">
+  <br/><br/>
+  <img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531157-99af0100-affa-11eb-86d1-21b944703324.png">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531160-9c115b00-affa-11eb-8d54-ed48976c02d6.png">
+  <br/><br/>
+  <img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531161-9f0c4b80-affa-11eb-8807-07b93f17e9cf.png">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="451" alt="Capture" src="https://user-images.githubusercontent.com/60784823/117531163-a3386900-affa-11eb-9dad-da7466dc32ce.png">
+  <br/>
+</p>
 
 ## Requirements
 
